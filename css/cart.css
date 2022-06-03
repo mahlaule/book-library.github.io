@@ -1,0 +1,29 @@
+body {
+    padding-top: 80px;
+    border:10px solid black;
+  }
+  
+ .row{
+     display: flex;
+     margin-left: 20px;
+     justify-content: space-between;
+  }
+  .card {
+    margin-bottom: 20px;
+  }
+  .card-img-top {
+    width: 200px;
+    height: 300px;
+    align-self: center;
+    margin-left: 10px;
+  }
+ .card-block{
+     text-align: center;
+ }
+ a{
+     
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-decoration: none;
+ }
